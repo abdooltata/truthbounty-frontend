@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-629-ui-fe-058-version-and-migrate-browser-persisted"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-629-ui-fe-058-version-and-migrate-browser-persisted": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-629-ui-fe-058-version-and-migrate-browser-persisted"
+  ]
+}
